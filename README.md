@@ -1,4 +1,4 @@
-<h1 align="center">Hello there Doc</h1>
+<h1 align="center">Hello there, I'm Doc</h1>
 <h3 align="center">I code ig</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doclit1&label=Profile%20views&color=0e75b6&style=flat" alt="doclit1" /> </p>
